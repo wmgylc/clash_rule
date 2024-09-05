@@ -1,5 +1,8 @@
-DOMAIN-KEYWORD,gamersky
+; ddns获取ip 
 DOMAIN-KEYWORD,ddns.oray
 DOMAIN-KEYWORD,ip.3322.net
 DOMAIN-KEYWORD,4.ipw.cn
+; istore os docker镜像需要直连
 DOMAIN-KEYWORD,registry-1.docker
+; pikpak下载
+DOMAIN-KEYWORD,dl-a10b
