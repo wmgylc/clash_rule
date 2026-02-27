@@ -1,14 +1,24 @@
-DOMAIN-KEYWORD, gemini
-DOMAIN-KEYWORD, aistudio
-DOMAIN-SUFFIX, google.dev
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,aistudio
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN-SUFFIX,google.dev
+DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
