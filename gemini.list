@@ -16,8 +16,8 @@ DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN,robinfrontend-pa.googleapis.com
-DOMAIN,www.gstatic.com
-DOMAIN,www.googletagmanager.com
+# DOMAIN,www.gstatic.com
+# DOMAIN,www.googletagmanager.com
 DOMAIN.update.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.com
