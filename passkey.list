@@ -1,0 +1,7 @@
+# Passkey / WebAuthn cross-device authentication endpoints
+# FIDO CTAP caBLE tunnel servers: Apple (iOS) and Google (Android)
+DOMAIN,cable.auth.com
+DOMAIN,cable.ua5v.com
+# Apple association endpoints documented for iOS cross-device passkey flows
+DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,app-site-association.networking.apple
