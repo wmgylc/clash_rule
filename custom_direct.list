@@ -10,7 +10,6 @@ DOMAIN-KEYWORD,sctapi.ftqq.com
 DOMAIN-KEYWORD,acme
 DOMAIN-SUFFIX,chiphell.com
 DOMAIN-KEYWORD,ug.link
-DOMAIN-KEYWORD,wmgylc
 DOMAIN-KEYWORD,mirrors.strategyloop.co
 DOMAIN-KEYWORD,www.naiyovpn.com
 DOMAIN-KEYWORD,v2free.net
@@ -18,3 +17,4 @@ DOMAIN-KEYWORD,edgetunnel
 DOMAIN-KEYWORD,tackinessann
 DOMAIN-KEYWORD,bibigpt
 DOMAIN-KEYWORD,commandcode.ai
+DOMAIN-REGEX,^r+[0-9]+---sn-ni5[a-z0-9]{5}\.xn--ngstr-lra8j\.com$
